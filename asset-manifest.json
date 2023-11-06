@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/lakebrains/static/css/main.75943188.css",
+    "main.js": "/lakebrains/static/js/main.243de412.js",
+    "static/js/787.635aedaa.chunk.js": "/lakebrains/static/js/787.635aedaa.chunk.js",
+    "index.html": "/lakebrains/index.html",
+    "main.75943188.css.map": "/lakebrains/static/css/main.75943188.css.map",
+    "main.243de412.js.map": "/lakebrains/static/js/main.243de412.js.map",
+    "787.635aedaa.chunk.js.map": "/lakebrains/static/js/787.635aedaa.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.75943188.css",
+    "static/js/main.243de412.js"
+  ]
+}
